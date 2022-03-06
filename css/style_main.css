@@ -1,0 +1,50 @@
+.main-top {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid white; */
+    height: 60px;
+}
+
+.main-top ul li{
+    margin-right: 15px;
+    display: inline-block;
+}
+
+.main-top ul li h3 {
+    font-size: 1.2rem;
+    font-family: 'Defago Noto Sans';
+    color: #fff;
+}
+
+.main-top ul li:hover h3{
+    transition: all .4s;
+    opacity: 90%;
+    color: #1DB57C;
+}
+
+.main-top ul li:active {
+    opacity: 70%;
+}
+
+.main-top ul li#music_active h3 {
+    color: #1DB57C;
+    border-bottom: 2px solid #1DB57C;
+}
+
+.main-mid {
+    padding-top: 40px;
+    padding-bottom: 80px;
+    /* border: 1px solid white; */
+}
+
+.iframe-container {
+    margin: 0px auto;
+    max-width: 85%;
+    /* border: 1px solid red; */
+}
+
+.iframe-container iframe {
+    margin-bottom: 15px;
+}
