@@ -91,7 +91,7 @@ Project Link: [https://github.com/Xaypanya/LaoSharpM/](https://github.com/Xaypan
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[product-screenshot-home]: img/demo/home.jpg
+[product-screenshot-home]: img/demo/home.jpeg
 [product-screenshot-lao]: img/demo/lao.jpg
 [product-screenshot-thai]: img/demo/thai.jpg
 [product-screenshot-about]: img/demo/about.jpg
