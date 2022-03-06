@@ -48,21 +48,22 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Preview
-
+* Home
 [![Product Name Screen Shot][product-screenshot-home]](https://xaypanya.github.io/LaoSharpM/)
 
-* Home
-
+oo----------------------------------------oo
+* Lao Songs
 [![Product Name Screen Shot][product-screenshot-lao]](https://xaypanya.github.io/LaoSharpM/music.html)
 
-* Lao Songs
-
+oo----------------------------------------oo
+* Thai Songs
 [![Product Name Screen Shot][product-screenshot-thai]](https://xaypanya.github.io/LaoSharpM/music_thai.html)
 
-* Thai Songs
+oo----------------------------------------oo
+* About
 [![Product Name Screen Shot][product-screenshot-about]](https://xaypanya.github.io/LaoSharpM/about.html)
 
-* About
+
 
 
 
